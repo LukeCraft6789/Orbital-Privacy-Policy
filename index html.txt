@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Terms of Service</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            max-width: 800px; 
+            margin: 30px auto; 
+            line-height: 1.6; 
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+        h1 { color: #2c3e50; }
+        h2 { color: #34495e; }
+        ul { margin-left: 20px; }
+        a { color: #2980b9; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p>Welcome to <strong>OrbitalBot</strong>! Please read these terms before using the bot:</p>
+
+    <h2>1. Usage Rules</h2>
+    <ul>
+        <li>Do not use the bot for illegal purposes.</li>
+        <li>Respect other users and do not violate their rights.</li>
+        <li>The bot is provided as-is; use at your own risk.</li>
+    </ul>
+
+    <h2>2. Liability</h2>
+    <p>The bot owner is not responsible for any data loss or issues resulting from using the bot.</p>
+
+    <h2>3. Changes</h2>
+    <p>These terms may be updated at any time. Continued use of the bot constitutes acceptance of the updated terms.</p>
+
+    <a href="privacy.html">Privacy Policy</a>
+</body>
+</html>
